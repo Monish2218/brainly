@@ -1,4 +1,5 @@
-# Second Brain
+# Brainly
+An application that can be used as a second brain where one can save links from YT, X etc.. and share their brain with others. Later we can also add the functionality to query the database.
 
 ## Notion Doc Link - [Click here](https://petal-estimate-4e9.notion.site/Building-a-second-brain-app-1407dfd1073580c19ac3cbe9afa9ac27)
 
